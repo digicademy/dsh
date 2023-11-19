@@ -1,5 +1,5 @@
 {
-    "name": "digicademy/da-quality",
+    "name": "digicademy/qad",
     "type": "typo3-cms-extension",
     "description": "Quality assurance routines for research data in TYPO3",
     "authors": [
@@ -8,14 +8,17 @@
             "email": "jonatan.steller@adwmainz.de",
             "role": "Developer",
             "homepage": "https://www.adwmainz.de"
+        },
+        {
+            "name": "QAD contributors"
         }
     ],
     "license": "GPL-2.0-or-later",
-    "homepage": "https://gitlab.rlp.net/adwmainz/digicademy/t3xdev/da-quality",
+    "homepage": "https://extensions.typo3.org/extension/qad",
     "support": {
-        "issues": "https://gitlab.rlp.net/adwmainz/digicademy/t3xdev/da-quality/-/issues",
-        "source": "https://gitlab.rlp.net/adwmainz/digicademy/t3xdev/da-quality",
-        "docs": "https://adwmainz.pages.gitlab.rlp.net/digicademy/t3xdev/da-quality"
+        "issues": "https://github.com/digicademy/qad/issues",
+        "source": "https://github.com/digicademy/qad",
+        "docs": "https://digicademy.github.io/qad"
     },
     "keywords": [
         "TYPO3",
@@ -31,12 +34,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Digicademy\\DAQuality\\": "Classes/"
+            "Digicademy\\QAD\\": "Classes/"
         }
     },
     "extra": {
         "typo3/cms": {
-            "extension-key": "da_quality"
+            "extension-key": "qad"
         }
     }
 }

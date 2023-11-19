@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: DA Quality
+title: QAD
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -10,10 +10,23 @@ authors:
     email: jonatan.steller@adwmainz.de
     affiliation: Academy of Sciences and Literature Mainz
     orcid: 'https://orcid.org/0000-0002-5101-5275'
+  - name: "QAD contributors"
 repository-code: >-
-  https://gitlab.rlp.net/adwmainz/digicademy/t3xdev/da-quality
+  https://github.com/digicademy/vis
 abstract: >-
-  Longer description.
+  This extension provides quality assurance (QA) routines
+  for data stored in TYPO3 systems. This can be helpful in
+  case a table configuration (TCA) needs to be flexible
+  but editors should adhere to specific guidelines when
+  they add or edit data. The extension allows you to
+  configure scheduled or manually triggered tasks that
+  check custom patterns across tables and fields. QA
+  information may also be collected in dashboards that
+  help editors find and complete faulty data. QAD is
+  compatible with, but not explicitly a part of, the
+  Cultural Heritage Framework (CHF), a research software
+  suite that helps you build web apps to produce and
+  publish data in the humanities.
 keywords:
   - TYPO3
   - Quality assurance
@@ -23,5 +36,5 @@ keywords:
   - Academia
   - Academic
 license: GPL 3
-version: 0.0.1
-date-released: '2023-04-12'
+version: 0.1.0
+date-released: '2023-11-27'
