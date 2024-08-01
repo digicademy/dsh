@@ -8,20 +8,20 @@
     >
     <extension
         class="\T3Docs\Typo3DocsTheme\DependencyInjection\Typo3DocsThemeExtension"
-        project-home="https://extensions.typo3.org/extension/qad"
+        project-home="https://extensions.typo3.org/extension/dash"
         project-contact="mailto:jonatan.steller@adwmainz.de"
-        project-repository="https://github.com/digicademy/qad"
-        project-issues="https://github.com/digicademy/qad/issues"
-        project-discussions="https://github.com/digicademy/qad/discussions"
+        project-repository="https://github.com/digicademy/dash"
+        project-issues="https://github.com/digicademy/dash/issues"
+        project-discussions="https://github.com/digicademy/dash/discussions"
         edit-on-github-branch="main"
-        edit-on-github="digicademy/qad"
+        edit-on-github="digicademy/dash"
         typo3-core-preferred="stable"
-        interlink-shortcode="digicademy/qad"
+        interlink-shortcode="digicademy/dash"
     />
     <project
-        title="QAD"
+        title="DASH"
         version="0.1"
         release="0.1.0"
-        copyright="since 2023 by Jonatan Jalle Steller and QAD contributors"
+        copyright="since 2023 by Jonatan Jalle Steller and DASH contributors"
     />
 </guides>

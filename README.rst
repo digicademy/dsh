@@ -10,9 +10,9 @@
     :alt: License: GPL v3
     :target: https://www.gnu.org/licenses/gpl-3.0
 
-===
-QAD
-===
+====
+DASH
+====
 
 This extension provides quality assurance (QA) routines for data stored in
 TYPO3 systems. This can be helpful in case a table configuration (TCA)
@@ -20,13 +20,13 @@ needs to be flexible but editors should adhere to specific guidelines when
 they add or edit data. The extension allows you to configure scheduled or
 manually triggered tasks that check custom patterns across tables and
 fields. QA information may also be collected in dashboards that help editors
-find and complete faulty data. QAD is compatible with, but not explicitly a
+find and complete faulty data. DASH is compatible with, but not explicitly a
 part of, the Cultural Heritage Framework (CHF), a research software suite
 that helps you build web apps to produce and publish data in the humanities.
 
-:Repository:  https://github.com/digicademy/qad
-:Read online: https://digicademy.github.io/qad
-:TER:         https://extensions.typo3.org/extension/qad
+:Repository:  https://github.com/digicademy/dash
+:Read online: https://digicademy.github.io/dash
+:TER:         https://extensions.typo3.org/extension/dash
 
 Roadmap
 =======

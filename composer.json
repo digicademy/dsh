@@ -1,5 +1,5 @@
 {
-    "name": "digicademy/qad",
+    "name": "digicademy/dash",
     "type": "typo3-cms-extension",
     "description": "Quality assurance routines for research data in TYPO3",
     "authors": [
@@ -10,15 +10,15 @@
             "homepage": "https://www.adwmainz.de"
         },
         {
-            "name": "QAD contributors"
+            "name": "DASH contributors"
         }
     ],
     "license": "GPL-2.0-or-later",
-    "homepage": "https://extensions.typo3.org/extension/qad",
+    "homepage": "https://extensions.typo3.org/extension/dash",
     "support": {
-        "issues": "https://github.com/digicademy/qad/issues",
-        "source": "https://github.com/digicademy/qad",
-        "docs": "https://digicademy.github.io/qad"
+        "issues": "https://github.com/digicademy/dash/issues",
+        "source": "https://github.com/digicademy/dash",
+        "docs": "https://digicademy.github.io/dash"
     },
     "keywords": [
         "TYPO3",
@@ -34,12 +34,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Digicademy\\QAD\\": "Classes/"
+            "Digicademy\\DASH\\": "Classes/"
         }
     },
     "extra": {
         "typo3/cms": {
-            "extension-key": "qad"
+            "extension-key": "dash"
         }
     }
 }
