@@ -1,7 +1,7 @@
 <?php
 
 $EM_CONF[$_EXTKEY] = [
-    'title'          => 'DASH',
+    'title'          => 'DSH',
     'description'    => 'Quality assurance routines for research data in TYPO3',
     'category'       => 'misc',
     'author'         => 'Jonatan Jalle Steller',
@@ -20,7 +20,7 @@ $EM_CONF[$_EXTKEY] = [
     ],
     'autoload'       => [
         'psr-4' => [
-           'Digicademy\\DASH\\' => 'Classes/'
+           'Digicademy\\DSH\\' => 'Classes/'
         ]
      ]
 ];

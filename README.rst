@@ -10,23 +10,23 @@
     :alt: License: GPL v3
     :target: https://www.gnu.org/licenses/gpl-3.0
 
-====
-DASH
-====
+===
+DSH
+===
 
 This extension provides quality assurance (QA) routines for data stored in
 TYPO3 systems. This can be helpful in case a table configuration (TCA)
 needs to be flexible but editors should adhere to specific guidelines when
 they add or edit data. The extension allows you to configure scheduled or
 manually triggered tasks that check custom patterns across tables and
-fields. QA information may also be collected in dashboards that help editors
-find and complete faulty data. DASH is compatible with, but not explicitly a
+fields. QA information may also be collected in dshboards that help editors
+find and complete faulty data. DSH is compatible with, but not explicitly a
 part of, the Cultural Heritage Framework (CHF), a research software suite
 that helps you build web apps to produce and publish data in the humanities.
 
-:Repository:  https://github.com/digicademy/dash
-:Read online: https://digicademy.github.io/dash
-:TER:         https://extensions.typo3.org/extension/dash
+:Repository:  https://github.com/digicademy/dsh
+:Read online: https://digicademy.github.io/dsh
+:TER:         https://extensions.typo3.org/extension/dsh
 
 Roadmap
 =======

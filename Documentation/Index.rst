@@ -2,15 +2,15 @@
 
 .. _start:
 
-====
-DASH
-====
+===
+DSH
+===
 
 :Extension key:
-    dash
+    dsh
 
 :Package name:
-    digicademy/dash
+    digicademy/dsh
 
 :Version:
     |release|
@@ -20,7 +20,7 @@ DASH
 
 :Author:
     `Jonatan Jalle Steller <mailto:jonatan.steller@adwmainz.de>`__,
-    DASH contributors
+    DSH contributors
 
 :License:
     This document is published under the
@@ -38,7 +38,7 @@ needs to be flexible but editors should adhere to specific guidelines when
 they add or edit data. The extension allows you to configure scheduled or
 manually triggered tasks that check custom patterns across tables and
 fields. QA information may also be collected in dashboards that help editors
-find and complete faulty data. DASH is compatible with, but not explicitly a
+find and complete faulty data. DSH is compatible with, but not explicitly a
 part of, the Cultural Heritage Framework (CHF), a research software suite
 that helps you build web apps to produce and publish data in the humanities.
 

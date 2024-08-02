@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: DASH
+title: DSH
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -10,7 +10,7 @@ authors:
     email: jonatan.steller@adwmainz.de
     affiliation: Academy of Sciences and Literature Mainz
     orcid: 'https://orcid.org/0000-0002-5101-5275'
-  - name: "DASH contributors"
+  - name: "DSH contributors"
 repository-code: >-
   https://github.com/digicademy/vis
 abstract: >-
@@ -22,7 +22,7 @@ abstract: >-
   configure scheduled or manually triggered tasks that
   check custom patterns across tables and fields. QA
   information may also be collected in dashboards that
-  help editors find and complete faulty data. DASH is
+  help editors find and complete faulty data. DSH is
   compatible with, but not explicitly a part of, the
   Cultural Heritage Framework (CHF), a research software
   suite that helps you build web apps to produce and
