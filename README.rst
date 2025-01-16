@@ -27,17 +27,3 @@ that helps you build web apps to produce and publish data in the humanities.
 :Repository:  https://github.com/digicademy/dsh
 :Read online: https://digicademy.github.io/dsh
 :TER:         https://extensions.typo3.org/extension/dsh
-
-Roadmap
-=======
-
-This is a pre-release version. The following steps are required for the software to move out of beta:
-
-- Implement QA dashboard
-- Add task for QA checks
-- Provide sample checks
-- Add API documentation
-
-**Beyond 2.0.0**
-
-- Add testing
